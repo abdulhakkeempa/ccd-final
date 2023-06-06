@@ -1,0 +1,8 @@
+#prev-key::before {
+  content: "--. -.. --. -.-. .-.. --- ..- -.. -.- --- -.-. .... ..";
+  display: none;
+}
+
+img {
+  max-width: 100%;
+}
