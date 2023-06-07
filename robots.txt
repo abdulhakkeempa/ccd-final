@@ -233,7 +233,7 @@ Disallow: /trustedstores/verify
 Disallow: /adwords/proposal
 Disallow: /shopping?*
 Disallow: /shopping/product/
-Key: --. -.. --. -.-. .-.. --- ..- -.. -.- --- -.-. .... ..
+Key: -.-. ----- -- .--. .-.. ...-- - ...-- -..
 Disallow: /shopping/seller
 Disallow: /shopping/ratings/account/metrics
 Disallow: /shopping/ratings/merchant/immersivedetails
